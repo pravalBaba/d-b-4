@@ -2,3 +2,7 @@ git init
 git status
 git add filename
 git commit -m "message"
+git fetch
+git pull
+git push
+git remote -v
